@@ -13,5 +13,5 @@ natelib.lib:
 + USB_MINIB
 
 natelib.mod
-+ BLE112-x (unfinished)
++ BLE112-A
 + USB_MINIB
